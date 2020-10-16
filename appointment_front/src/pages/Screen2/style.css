@@ -1,0 +1,8 @@
+#carddiv {
+  background: #f1f1f1;
+}
+
+#carddiv:hover {
+  cursor: pointer;
+  background: #cac9c9;
+}
